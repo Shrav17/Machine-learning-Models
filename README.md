@@ -2,7 +2,7 @@
 
 R Scripts for:
 
-1. Classification using Random forest to categorize the investor and non-investor in the Real estate company dataset
+1.Classification using Random forest to categorize the investor and non-investor in the Real estate company dataset
 
 2.XGBoost
 
